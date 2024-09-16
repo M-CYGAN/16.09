@@ -1,0 +1,49 @@
+body{
+    font-family: Garamond;
+    text-align: center;
+}
+header,main,section{
+    width: 72%;
+}
+header{
+    background-color: #795548;
+    font-size: 170%;
+}
+main{
+    height: 400px;
+}
+aside,aside2{
+    background-color: #bcaaa4;
+    color: #795548;
+    height: 400px;
+    width: 28%;
+}
+footer{
+    background-color: #795548;
+    color: white;
+    padding: 20px;
+}
+table{
+    margin: auto;
+    width: 80%;
+    border: solid 1px #795548;
+
+}
+table:hover{
+    color: white;
+    border: solid 1px sienna;
+    background-color: sienna; 
+}
+h4{
+    font-size: 200%;
+}
+img{
+    padding: 20px;
+    border-radius: 40px;
+}
+a{
+    color: white;
+}
+#radio{
+    margin: 7px;
+}
